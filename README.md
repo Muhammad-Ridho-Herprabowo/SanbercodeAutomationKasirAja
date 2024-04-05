@@ -1,2 +1,2 @@
 # SanbercodeAutomationKasirAja
-latihan automation 
+latihan automation bersama mas jojo
